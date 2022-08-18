@@ -1,0 +1,4 @@
+# .gitignore
+# Files that Git should ignore.
+
+node_modules/
